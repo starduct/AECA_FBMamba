@@ -4,7 +4,9 @@
 
 * **Our code framework is based on [Paraformer](https://github.com/LiZhuoHong/Paraformer), and the setup of the training environment can be guided by its README file. After that, to train and test the AECA-FBMamba on the default Chesapeake Bay dataset, follow these steps:**
 
-1. Run the "Train" command:
+1. Download our code. We have modified the code "train.py" and "test.py" in the Paraformer. We have also submitted the "multi_eval.py" code to evaluate the model's performance.
+
+2. Run the "Train" command:
 
    ```bash
    python train.py --dataset Chesapeake --batch_size 4 --max_epochs 100 --savepath *save path of your folder* --gpu 0
