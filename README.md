@@ -2,7 +2,7 @@
 
 ## Training Instructions
 
-* **Our code framework is based on Paraformer, and the setup of the training environment can be guided by its README file. After that, to train and test the AECA-FBMamba on the default Chesapeake Bay dataset, follow these steps:**
+* **Our code framework is based on [Paraformer](https://github.com/LiZhuoHong/Paraformer), and the setup of the training environment can be guided by its README file. After that, to train and test the AECA-FBMamba on the default Chesapeake Bay dataset, follow these steps:**
 
 1. Run the "Train" command:
 
