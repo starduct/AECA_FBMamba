@@ -34,7 +34,7 @@
 The Chesapeake Dataset
 -------
 
-<img src="https://github.com/starduct/AECA_FBMamba/img/The%20Chesapeake%20Dataset.png" width="70%">
+<img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/The%20Chesapeake%20Dataset.png" width="70%">
 
 The Chesapeake Dataset sample images used above is from the publicly available [**Paraformer GitHub repository**](https://github.com/LiZhuoHong/Paraformer).
 
@@ -43,18 +43,18 @@ The Poland Dataset
 
 The Poland Dataset sample images used above is from the publicly available [**Paraformer GitHub repository**](https://github.com/LiZhuoHong/Paraformer).
 
-<img src="https://github.com/starduct/AECA_FBMamba/img/The%20Poland%20dataset.png" width="70%">
+<img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/The%20Poland%20dataset.png" width="70%">
 
 The sample images used in the paper include:
 m_4207417_ne_18_1:
-<img src="https://github.com/starduct/AECA_FBMamba/img/m_4207417_ne_18_1.png" width="70%">
+<img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4207417_ne_18_1.png" width="70%">
 m_4207421_sw_18_1:
-<img src="https://github.com/starduct/AECA_FBMamba/img/m_4207421_sw_18_1.png" width="70%">
+<img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4207421_sw_18_1.png" width="70%">
 m_4207450_nw_18_1:
-<img src="https://github.com/starduct/AECA_FBMamba/img/m_4207450_nw_18_1.png" width="70%">
+<img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4207450_nw_18_1.png" width="70%">
 m_4207706_se_18_1:
-<img src="https://github.com/starduct/AECA_FBMamba/img/m_4207706_se_18_1.png" width="70%">
+<img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4207706_se_18_1.png" width="70%">
 m_4207716_sw_18_1:
-<img src="https://github.com/starduct/AECA_FBMamba/img/m_4207716_sw_18_1.png" width="70%">
+<img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4207716_sw_18_1.png" width="70%">
 m_4307417_sw_18_1:
-<img src="https://github.com/starduct/AECA_FBMamba/img/m_4307417_sw_18_1.png" width="70%">
+<img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4307417_sw_18_1.png" width="70%">
