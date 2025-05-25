@@ -46,15 +46,15 @@ The Poland Dataset sample images used above is from the publicly available [**Pa
 <img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/The%20Poland%20dataset.png" width="70%">
 
 The sample images used in the paper include:
-m_4207417_ne_18_1:
+1. m_4207417_ne_18_1:
 <img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4207417_ne_18_1.png" width="70%">
-m_4207421_sw_18_1:
+2. m_4207421_sw_18_1:
 <img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4207421_sw_18_1.png" width="70%">
-m_4207450_nw_18_1:
+3. m_4207450_nw_18_1:
 <img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4207450_nw_18_1.png" width="70%">
-m_4207706_se_18_1:
+4. m_4207706_se_18_1:
 <img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4207706_se_18_1.png" width="70%">
-m_4207716_sw_18_1:
+5. m_4207716_sw_18_1:
 <img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4207716_sw_18_1.png" width="70%">
-m_4307417_sw_18_1:
+6. m_4307417_sw_18_1:
 <img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/m_4307417_sw_18_1.png" width="70%">
