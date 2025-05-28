@@ -36,14 +36,15 @@ The Chesapeake Dataset
 
 <img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/The%20Chesapeake%20Dataset.png" width="70%">
 
-The Chesapeake Dataset sample images used above is from the publicly available [**Paraformer GitHub repository**](https://github.com/LiZhuoHong/Paraformer).
+The Chesapeake Dataset sample image used above is from the publicly available [**Paraformer GitHub repository**](https://github.com/LiZhuoHong/Paraformer).
 
 The Poland Dataset
 -------
-
-The Poland Dataset sample images used above is from the publicly available [**Paraformer GitHub repository**](https://github.com/LiZhuoHong/Paraformer).
-
 <img src="https://github.com/starduct/AECA_FBMamba/blob/main/img/The%20Poland%20dataset.png" width="70%">
+
+The Poland Dataset sample image used above is from the publicly available [**Paraformer GitHub repository**](https://github.com/LiZhuoHong/Paraformer).
+
+-------
 
 The sample images used in the paper include:
 1. m_4207417_ne_18_1:
